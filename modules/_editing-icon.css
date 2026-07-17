@@ -12,6 +12,6 @@
    ========================================== */
 
     .icon-cicle-check {
-        -webkit-mask-image: url('../icons/editing/cicle-check.svg');
-        mask-image: url('../icons/editing/cicle-check.svg');  
+        -webkit-mask-image: url('../icons/editing/check.svg');
+        mask-image: url('../icons/editing/check.svg');  
     }
