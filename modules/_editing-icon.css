@@ -2,7 +2,7 @@
                 Check
    ========================================== */
 
-    .icon-check {
+    .icon-check-icon {
         -webkit-mask-image: url('../icons/editing/check.svg');
         mask-image: url('../icons/editing/check.svg');  
     }
