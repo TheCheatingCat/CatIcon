@@ -1,0 +1,8 @@
+/* ==========================================
+                Poop
+   ========================================== */
+
+    .icon-poop {
+        -webkit-mask-image: url('../icons/energy/poop.svg');
+        mask-image: url('../icons/energy/poop.svg');  
+    }

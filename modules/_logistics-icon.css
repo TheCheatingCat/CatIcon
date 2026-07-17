@@ -1,0 +1,8 @@
+/* ==========================================
+                packages
+   ========================================== */
+
+    .icon-packages-group {
+        -webkit-mask-image: url('../icons/logistics/packages.svg');
+        mask-image: url('../icons/logistics/packages.svg');  
+    }

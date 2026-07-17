@@ -1,0 +1,8 @@
+/* ==========================================
+                Truck Icon
+   ========================================== */
+
+    .icon-bell {
+        -webkit-mask-image: url('../icons/alert/bell.svg');
+        mask-image: url('../icons/alert/bell.svg');
+    }

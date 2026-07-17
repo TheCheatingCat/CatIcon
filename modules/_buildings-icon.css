@@ -1,0 +1,8 @@
+/* ==========================================
+                    House
+   ========================================== */
+
+    .icon-house{
+        -webkit-mask-image: url('../icons/buildings/house.svg');
+        mask-image: url('../icons/buildings/house.svg');  
+    }
