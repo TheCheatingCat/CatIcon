@@ -2,7 +2,7 @@
                 Slime Emoji icon
    ========================================== */
 
-    .icon-slimeEmoji {
+    .icon-slime-emoji {
         -webkit-mask-image: url('../icons/emoji/slime-emoji.svg');
         mask-image: url('../icons/emoji/slime-emoji.svg');
     }
