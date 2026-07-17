@@ -1,8 +1,0 @@
-/* ==========================================
-                Print Icon
-   ========================================== */
-
-    .icon-print {
-        -webkit-mask-image: url('../icons/business/print.svg');
-        mask-image: url('../icons/business/print.svg');
-    }
