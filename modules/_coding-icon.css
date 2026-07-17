@@ -1,0 +1,26 @@
+/* ==========================================
+                Gear Icon
+   ========================================== */
+
+    .icon-gear {
+        -webkit-mask-image: url('../icons/coding/gear.svg');
+        mask-image: url('../icons/coding/gear.svg');
+    }
+
+/* ==========================================
+                Gears Icon
+   ========================================== */
+
+    .icon-gears {
+        -webkit-mask-image: url('../icons/coding/gears.svg');
+        mask-image: url('../icons/coding/gears.svg');
+    }
+
+/* ==========================================
+                Shield Icon
+   ========================================== */
+
+    .icon-shield {
+        -webkit-mask-image: url('../icons/coding/shield.svg');
+        mask-image: url('../icons/coding/shield.svg');
+    }

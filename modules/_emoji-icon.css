@@ -1,0 +1,8 @@
+/* ==========================================
+                Slime Emoji icon
+   ========================================== */
+
+    .icon-slimeEmoji {
+        -webkit-mask-image: url('../icons/emoji/slime-emoji.svg');
+        mask-image: url('../icons/emoji/slime-emoji.svg');
+    }

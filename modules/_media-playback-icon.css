@@ -1,0 +1,8 @@
+/* ==========================================
+                Volumen
+   ========================================== */
+
+    .icon-volumen {
+        -webkit-mask-image: url('../icons/media-playback/volume.svg');
+        mask-image: url('../icons/media-playback/volume.svg');
+    }

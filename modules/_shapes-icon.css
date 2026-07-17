@@ -1,0 +1,8 @@
+/* ==========================================
+                    Start
+   ========================================== */
+
+    .icon-start {
+        -webkit-mask-image: url('../icons/shapes/start.svg');
+        mask-image: url('../icons/shapes/start.svg');
+    }
