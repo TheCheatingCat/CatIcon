@@ -1,0 +1,8 @@
+/* ==========================================
+                Truck Icon
+   ========================================== */
+
+    .icon-download {
+            -webkit-mask-image: url('../icons/arrows/download.svg');
+            mask-image: url('../icons/arrows/download.svg');  
+    }
